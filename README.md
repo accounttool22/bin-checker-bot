@@ -2,7 +2,7 @@
 
 PHP BIN Checker Bot
 
-Fetch: https://bins.su
+Fetch: bot buy @nati_sam22
 
 Thanks to [Λгɳαɓ <XLR8/>](https://telegram.me/Arnab431) for  https://binssuapi.vercel.app API
 
